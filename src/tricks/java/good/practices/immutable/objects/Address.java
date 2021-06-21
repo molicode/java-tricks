@@ -1,4 +1,4 @@
-package tricks.java.good.practices.one.immutable.objects;
+package tricks.java.good.practices.immutable.objects;
 
 import java.util.Objects;
 

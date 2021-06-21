@@ -1,4 +1,4 @@
-package tricks.java.good.practices.one.avoid.constructors.with.many.parameters;
+package tricks.java.good.practices.avoid.constructors.with.many.parameters;
 
 import java.util.Objects;
 
